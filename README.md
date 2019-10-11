@@ -17,7 +17,7 @@ AND FINALLY IT SHOWS WHAT YOU SPOKE....
 <li>PyAudio package-- -----$ pip install pyaudio</li>
 <li>Speech recognition,  -----pip install SpeechRecognition</li>
 <li>Pocketsphinx package-- <mark>$ ----pip install pocketsphinx</mark></li>
-<li>Install Google Speech API client, $ ----pip install --upgrade google-cloud-speech</li>
+<li>Install Google Speech API client, $ ----pip install -upgrade google-cloud-speech</li>
 <li>Install Google Natural Language API client, $ ------pip install --upgrade google-cloud-language</li>
 <li>Authenticating to the Cloud Speech API, $ export GOOGLE_APPLICATION_CREDENTIALS=PATH_TO_KEY_FILE,-----https://drive.google.com/open?id=1pPVFnxAnSUAFejaKEOWjO_iUyReld46E </li>
 
